@@ -1,0 +1,24 @@
+{
+  "name": "windows-batch-file",
+  "version": "0.0.1",
+  "description": "Execute windows batch files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnSimerlink/node-windows-batch-file.git"
+  },
+  "keywords": [
+    "windows",
+    "batch-file",
+    "batch"
+  ],
+  "author": "John Simerlink, WebPresented LLC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnSimerlink/node-windows-batch-file/issues"
+  },
+  "homepage": "https://github.com/JohnSimerlink/node-windows-batch-file#readme"
+}
